@@ -1,0 +1,18 @@
+Multivariate Time Series Classification With Deep Learning 
+
+
+Abstract 
+
+Time Series Classification(TSC) has emerged as one of the most difficult problems in Data Science in recent years. 
+This is because any classification problem that uses data while analyzing some separating idea can be treated as 
+a Time Series Classification problem. Time series can be found in a wide range of real-world applications, including 
+health care, human activity recognition, cyber-security, finance, marketing, automated disease detection, anomaly detection, 
+and so on. As the availability of temporal data has increased significantly in recent years, many areas have developed a strong 
+interest in time series-based applications, and many new algorithms have been proposed as a result.TSC is fundamentally a supervised 
+machine learning problem, where you train several algorithms on time series data, then observe which algorithm works best. Over the 
+past years, research on TSC has developed new algorithms which have made a major impact on the current state of the art. A TSC problem 
+is a classification problem where the objects of the datasets are univariate or multivariate time series. Our main focus is on the Multivariate 
+time series classification(MTSC) because it is more common to encounter multivariate TSC problems, considering this MTSC has received less attention 
+than the univariate case. The UCR and UCI archives have provided datasets that include univariate as well as multivariate time series problems. Of all 
+the algorithms in this field, especially algorithms based those based on deep learning require some kind of feature engineering, selection of learning 
+rate, and choice of batch size as a separate task. By performing these tasks we will be improving the performance of the existing deep learning algorithms.
